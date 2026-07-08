@@ -43,7 +43,7 @@ body {
 .header-art {
   width: 100%;
   aspect-ratio: 2000 / 199;
-  background-image: url("../imagens/banners/fundo-cabecalho-desktop.png");
+  background-image: url("../banners/fundo-cabecalho-desktop.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
@@ -219,7 +219,7 @@ body {
 
   .header-art {
     aspect-ratio: 1026 / 167;
-    background-image: url("../imagens/banners/fundo-cabecalho-mobile.png");
+    background-image: url("../banners/fundo-cabecalho-mobile.png");
     background-size: 100% 100%;
   }
 
